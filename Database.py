@@ -21,4 +21,4 @@ def createDB():
     )""")
 
 # Criando o Banco de Dados 
-createTable()
+createDB()
